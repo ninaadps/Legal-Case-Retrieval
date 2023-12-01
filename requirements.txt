@@ -1,0 +1,8 @@
+PyMuPDF
+sentence_transformers
+annoy
+fastapi
+uvicorn
+jinja2
+python-multipart
+sqlite-utils
